@@ -9,3 +9,8 @@ PHP - StockManagementSystem
            sms_php.sql
            config.php
            
+           **Login Details**
+           
+           Username: admin
+           Password: admin
+           
