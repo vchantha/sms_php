@@ -7,5 +7,5 @@ PHP - StockManagementSystem
        
            StockManagementSystem
            sms_php.sql
-           
+           config.php
            
