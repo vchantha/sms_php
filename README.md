@@ -6,3 +6,6 @@ PHP - StockManagementSystem
 - database
        
            StockManagementSystem
+           sms_php.sql
+           
+           
