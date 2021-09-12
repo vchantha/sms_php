@@ -4,4 +4,5 @@ PHP - StockManagementSystem
 ## information
 
 - database
-                 StockManagementSystem
+       
+           StockManagementSystem
